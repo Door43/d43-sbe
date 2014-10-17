@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sbe:home|Door43 (sbe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sbe|d43-sbe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sbe/archive/master.zip|d43-sbe.zip]]
+
+**Recent Changes**
+{{changes>ns = sbe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sbe|Ethnologue data]]
+
